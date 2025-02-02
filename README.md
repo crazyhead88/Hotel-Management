@@ -1,4 +1,5 @@
 # Hotel Management App
+![Uploading preview1.png…]()
 
 ## About
 The Hotel Management App is a comprehensive software solution designed to streamline hotel operations. Developed using Python and SQL, it provides intuitive features for both employees and administrators, enhancing the efficiency of tasks such as guest registration, reservation management, and revenue tracking.This is made only for hotel side ex: reception.
