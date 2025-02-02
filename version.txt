@@ -1,1 +1,9 @@
+If Newer Verion of packages are Not working try downloading the following versions:
 
+matplotlib --> 30.10.0rc1
+mysql-connector-python --> 8.1.0
+numpy --> 2.1.3
+sv-ttk --> 2.6.0
+tkcalendar --> 1.6.1
+
+I have only included the main packages if you need information regarding any other, do comment on my repo !!! 
