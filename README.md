@@ -36,5 +36,5 @@ If you encounter issues while running the app:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Feedback
-This project was created as my High School (12th std) final project, it was made in hurry and might include considerable amount of weak errors. For any issues or suggestions, feel free to comment. 
+This project was created as my High School (12th std) final project, it was made in hurry and might include considerable amount of weak errors. It uses a lot of loop, if, else statements due to the constraint of syllabus but this can be further optimised by classes and objects. For any issues or suggestions, feel free to comment. 
 
